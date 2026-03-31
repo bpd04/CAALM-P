@@ -105,7 +105,7 @@ A = {stim_amplitude, phase_shift}
 
 ##  Simulation Results
 
-![Results](outputs/figures/caalm_comparison_plot.png)
+![Results](outputs/caalm_comparison_plot.png)
 
 ### Key Outcomes
 
